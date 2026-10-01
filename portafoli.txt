@@ -1,0 +1,25 @@
+------------------------------------------------
+PORTAFOLI PERSONAL I BITÀCOLA DE DESENVOLUPAMENT
+-------------------------------------------------
+
+1.  SOBRE MI
+---------------
+Nom i Cognoms: Paula Molist
+Cicle: CFGS Desenvolupament d'Aplicacions Multiplataforma (DAM)
+Presentació: Soc estudiant de DAM i m'interessa el món de la informàtica i el desenvolupament d'aplicacions. 
+Actualment estic aprenent diferents llenguatges de programació, bases de dades i eines de desenvolupament.
+
+
+2. HABILITATS I EINES TÈCNIQUES
+--------------------------------
+- Sistemes operatius: Linux (Ubuntu/Debian), Windows
+- Control de versions: Git, GitHub
+- Línia de comandes: Terminal
+- Entorns i eines: Visual Studio Code, MySQL
+- Llenguatges: Python, Java, SQL
+
+
+3. BITÀCOLA DE PROJECTES I PRÀCTIQUES
+--------------------------------------
+Pràctica 01: Configuració de l'entorn i repositori Git
+- Descripció: Creació del portafoli personal i configuració del control de versions amb Git.
