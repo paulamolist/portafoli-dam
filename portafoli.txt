@@ -12,7 +12,7 @@ Actualment estic aprenent diferents llenguatges de programació, bases de dades 
 
 2. HABILITATS I EINES TÈCNIQUES
 --------------------------------
-- Sistemes operatius: Linux (Ubuntu/Debian), Windows
+- Sistemes operatius: Linux, Windows
 - Control de versions: Git, GitHub
 - Línia de comandes: Terminal
 - Entorns i eines: Visual Studio Code, MySQL
